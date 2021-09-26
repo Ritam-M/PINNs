@@ -1,7 +1,7 @@
 # PINNs
 
 This repository consists of the implementation of Physics Informed Deep Learning Papers 1 and 2.
-Use Cases: Burgler's Equation, Navier Stokes Equation
+Use Cases: Burgler's Equation, Navier Stokes Equation, 1D-Heat-Transfer-Transient, 2D-Heat-Transfer-Transient, 2D-Heat-Transfer-Steady
 
 References
 https://maziarraissi.github.io/PINNs/
